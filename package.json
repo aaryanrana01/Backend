@@ -1,0 +1,27 @@
+{
+  "name": "mybackend",
+  "version": "1.0.0",
+  "description": "My first app to deploy",
+  "keywords": [
+    "node"
+  ],
+  "homepage": "https://github.com/aaryanrana01/Backend#readme",
+  "bugs": {
+    "url": "https://github.com/aaryanrana01/Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaryanrana01/Backend.git"
+  },
+  "license": "ISC",
+  "author": "Aaryan Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
